@@ -1,0 +1,12 @@
+{
+  "name": "dns-record-checker",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Full DNS lookup for any domain. Returns A, AAAA, MX, TXT, CNAME, NS, SOA records plus smart summary.",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "author": "George (george.the.developer)",
+  "license": "ISC"
+}
