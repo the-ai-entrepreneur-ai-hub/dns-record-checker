@@ -7,6 +7,10 @@
 
 Full DNS lookup for any domain. Returns A, AAAA, MX, TXT, CNAME, NS, SOA records plus a smart summary that detects your mail provider, nameserver provider, and SPF/DMARC status. One API call, instant response, no cold start.
 
+## 简介
+
+任何域名的完整DNS查询。返回A、AAAA、MX、TXT、CNAME、NS、SOA记录，自动检测邮件提供商和SPF/DMARC状态。
+
 ## Architecture
 
 ```mermaid
